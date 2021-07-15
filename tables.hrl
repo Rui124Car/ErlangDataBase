@@ -1,0 +1,3 @@
+-record(person, {cc, name, address, phone}).
+-record(book, {code, title, authors}).
+-record(request, {book_code, person_cc}).
